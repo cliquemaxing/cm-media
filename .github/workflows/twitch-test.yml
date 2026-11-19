@@ -1,0 +1,27 @@
+name: twitch-test
+on: workflow_dispatch
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Twitch VOD segment download test
+        run: |
+          set -e
+          VOD=2932305259
+          Q='{"operationName":"PlaybackAccessToken_Template","query":"query PlaybackAccessToken_Template($vodID: ID!) { videoPlaybackAccessToken(id: $vodID, params: {platform: \"web\", playerBackend: \"mediaplayer\", playerType: \"site\"}) { value signature } }","variables":{"vodID":"'$VOD'"}}'
+          R=$(curl -s -H 'Client-ID: kimne78kx3ncx6brgo4mv6wki5h1ko' -d "$Q" https://gql.twitch.tv/gql)
+          SIG=$(echo "$R" | jq -r .data.videoPlaybackAccessToken.signature)
+          TOK=$(echo "$R" | jq -r .data.videoPlaybackAccessToken.value)
+          echo "sig len ${#SIG}"
+          M=$(curl -s -G "https://usher.ttvnw.net/vod/$VOD.m3u8" --data-urlencode "sig=$SIG" --data-urlencode "token=$TOK" -d allow_source=true)
+          U=$(echo "$M" | grep '^http' | grep chunked | head -1); [ -z "$U" ] && U=$(echo "$M" | grep '^http' | head -1)
+          echo "variant: $U"
+          B=${U%/*}
+          S=$(curl -s "$U" | grep -v '^#' | sed -n '1000p')
+          curl -s -o seg.ts "$B/$S" || true
+          ls -la seg.ts
+          ffprobe -v error -show_entries format=duration -of csv=p=0 seg.ts || true
+          # chat comments test
+          C=$(curl -s -H 'Client-ID: kimne78kx3ncx6brgo4mv6wki5h1ko' -d '{"operationName":"VideoCommentsByOffsetOrCursor","variables":{"videoID":"'$VOD'","contentOffsetSeconds":30000},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"b70a3591ff0f4e0313d126c6a1502d79a1c02baebb288227c582044aa76adf6a"}}}' https://gql.twitch.tv/gql)
+          echo "comments: $(echo "$C" | jq '.data.video.comments.edges | length')"
+          echo "errors: $(echo "$C" | jq -c '.errors' | head -c 300)"
