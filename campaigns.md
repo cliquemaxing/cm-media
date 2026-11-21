@@ -84,21 +84,8 @@ https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9 · r
 
 ---
 
-## Joined 21 Nov
-
-### $20,000 CORE Pool Campaign (Reach) — $20K pool split by views; clip counts from 500 views; MVR 2M total views; ends 30 Nov 2026
-https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · rules: https://reachclipping.com/CORE
-- Footage: CORE content (e.g. Lacy / JasonTheWeen GTA VI streams) where AT LEAST 2 CORE members physically appear together in the same clip. Separate solo clips edited together do NOT count. Funny moments/reactions/banter.
-- Same clip can ALSO be submitted to the Lacy and JasonTheWeen campaigns if it meets their rules (stackable).
-- CORE YouTube content not allowed here (goes to the separate 5K campaign).
-- Caption/text overlay must mention CORE or the members' names; hashtags #CORE + one per member in the video.
-- ≥50% native-English audience (US/CA/AU/UK/NZ). English captions/text only.
-- NO logos of any kind; no negative portrayal / hate farming; no botting, reposts, collab posts, AI; no repetitive thumbnails.
-- Submit within 30 min of posting. TikTok, Reels, Shorts, X.
-
----
-
 ## Pending Rei's decision (not joined)
+- ⚠️ $20,000 CORE Pool Campaign (Reach) — https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · rules https://reachclipping.com/CORE — NOT joined on the CliqueMaxing account: on 21 Nov the scout clicked Join in a Content Rewards session logged in as "madmonday", which Rei does not recognise. Do NOT submit clips here until Rei joins from his own account. Rules if joined: ≥2 CORE members physically together in the same clip (e.g. Lacy + Jason GTA VI); stackable with Lacy/Jason campaigns; #CORE + member hashtags; no logos; ≥50% native-English audience; $20K pool, 500 views/clip, MVR 2M; ends 30 Nov.
 - GTA VI Clipup Logo Campaign (ClipUp Official, $0.30/1K tier-1, $15K) — add ClipUp logo to any GTA VI streamer clip; rule/logo hidden until join; clashes with "no logos" campaigns.
 - Lucky Latvian X GTA6 (KLIPZY, $2/1K) — unknown CTA, possibly gambling.
 - [GTA VI] MUSIC | 10 TRACKS (ClipOfficial, $1/1K) — creator requirement hidden until join.
