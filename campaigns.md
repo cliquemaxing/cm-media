@@ -14,7 +14,7 @@ Global: streamer clips → TikTok only (Instagram = original carousels only). No
 - TOMO GTA VI — budget nearly exhausted (~$995/$1K on 19 Nov)
 - Dasgasd3m x RUCKUS | GTA 6 ($2/1K) — https://contentrewards.com/c/campaigns/051002dd-5c46-43d0-a446-43f2957ba3a9
 - GTA 6 Clipping – Tokyo Girl (Placements, music, $0.70/1K) — https://contentrewards.com/c/campaigns/40046522 (open from Discover)
-- $5,000 Marlon Clipping (Reach) — not GTA (Marlon trip footage only), almost full ($4,645/$5K on 20 Nov)
+- $5,000 Marlon Clipping (Reach) — not GTA (Marlon trip footage only), almost full ($4,9K/$5K on 21 Nov)
 
 Reach campaigns in general: rules at reachclipping.com/<Name>; NO logos of any kind, ≥50% native-English audience, no AI/collab/reposts, submit within 30 min.
 
@@ -22,8 +22,9 @@ Reach campaigns in general: rules at reachclipping.com/<Name>; NO logos of any k
 
 ## Joined 19 Nov
 
-### KreekCraft GTA 6 Clipping (ClipLaunch) — $1/1K, min $3, max $300/clip, budget $6,824
+### KreekCraft GTA 6 Clipping (ClipLaunch) — ⚠️ RATE CHANGED 21 Nov: now $0.50/1K, min $5, max $500/clip; $3,308 left of $6,824
 https://contentrewards.com/c/campaigns/2eaa14fb-6927-4136-897e-b096e0d907d6 · rules: https://app.notion.com/p/KreekCraft-GTA-6-Clipping-Full-Rules-Brief-41c8e335832380cc8667c9359e8c61b7
+- (Was $1/1K, min $3, max $300 on 19 Nov.)
 - Footage: KreekCraft's official GTA 6 livestreams/replays only (twitch.tv/kreekcraft/videos, youtube.com/@Kreek/streams).
 - Official KreekCraft logo overlay (in reference files) visible for the WHOLE clip — mandatory.
 - Caption: "Watch KreekCraft on YouTube and Twitch" + #GTA6 #KreekCraft #GrandTheftAutoVI.
@@ -83,12 +84,29 @@ https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9 · r
 
 ---
 
+## Joined 21 Nov
+
+### $20,000 CORE Pool Campaign (Reach) — $20K pool split by views; clip counts from 500 views; MVR 2M total views; ends 30 Nov 2026
+https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · rules: https://reachclipping.com/CORE
+- Footage: CORE content (e.g. Lacy / JasonTheWeen GTA VI streams) where AT LEAST 2 CORE members physically appear together in the same clip. Separate solo clips edited together do NOT count. Funny moments/reactions/banter.
+- Same clip can ALSO be submitted to the Lacy and JasonTheWeen campaigns if it meets their rules (stackable).
+- CORE YouTube content not allowed here (goes to the separate 5K campaign).
+- Caption/text overlay must mention CORE or the members' names; hashtags #CORE + one per member in the video.
+- ≥50% native-English audience (US/CA/AU/UK/NZ). English captions/text only.
+- NO logos of any kind; no negative portrayal / hate farming; no botting, reposts, collab posts, AI; no repetitive thumbnails.
+- Submit within 30 min of posting. TikTok, Reels, Shorts, X.
+
+---
+
 ## Pending Rei's decision (not joined)
 - GTA VI Clipup Logo Campaign (ClipUp Official, $0.30/1K tier-1, $15K) — add ClipUp logo to any GTA VI streamer clip; rule/logo hidden until join; clashes with "no logos" campaigns.
 - Lucky Latvian X GTA6 (KLIPZY, $2/1K) — unknown CTA, possibly gambling.
 - [GTA VI] MUSIC | 10 TRACKS (ClipOfficial, $1/1K) — creator requirement hidden until join.
 - Clix x JBL $4K (Reach) — JBL logo required.
 - BrettLiftsXP GTA VI ($2 CPM) — rules hidden until join.
+- $2,500 Pilat Clipping (Reach, $1/1K, MVR 10K, min $10/max $300) — https://contentrewards.com/c/campaigns/5f22a72a-9598-4d10-897e-e16ebc97ff0e · rules https://reachclipping.com/Pilat — GTA 6 playthrough clips OK, but Pilat is a gambling streamer (campaign also accepts gambling streams).
+- DENIAL – HOSTILE (Austere, sound campaign, $1/1K, $1.2K) — https://contentrewards.com/c/campaigns/eac1cd1a-0c1d-4d59-9a4c-3e70ce4f8bd8 — official audio over GTA 6 trailer cuts; creator requirement hidden until join.
+- Naya Yeira – Almost There (music, $1/1K, min $10/max $100, $1K) — https://contentrewards.com/c/campaigns/7be0bc4d-a46f-4baa-b0f8-3202c9c9e203 — generic music campaign (GTA 6 missions allowed with the official sound, tag @nayayeira); not a GTA campaign.
 
 ## Rejected
-BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI).
+BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA).
