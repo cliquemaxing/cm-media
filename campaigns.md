@@ -23,7 +23,7 @@ Reach campaigns in general: rules at reachclipping.com/<Name>; NO logos of any k
 
 ## Joined 19 Nov
 
-### KreekCraft GTA 6 Clipping (ClipLaunch) — ⚠️ RATE CHANGED 21 Nov: now $0.50/1K, min $5, max $500/clip; $3,308 left of $6,824
+### KreekCraft GTA 6 Clipping (ClipLaunch) — ⚠️ RATE CHANGED 21 Nov: now $0.50/1K, min $5, max $500/clip; ~$3.1K left of $6.8K (21 Nov PM)
 https://contentrewards.com/c/campaigns/2eaa14fb-6927-4136-897e-b096e0d907d6 · rules: https://app.notion.com/p/KreekCraft-GTA-6-Clipping-Full-Rules-Brief-41c8e335832380cc8667c9359e8c61b7
 - (Was $1/1K, min $3, max $300 on 19 Nov.)
 - Footage: KreekCraft's official GTA 6 livestreams/replays only (twitch.tv/kreekcraft/videos, youtube.com/@Kreek/streams).
@@ -36,7 +36,7 @@ https://contentrewards.com/c/campaigns/5d37d3dd-adf3-401f-9c62-24bb54d5087a · r
 - Footage: Diego's GTA Twitch streams only (twitch.tv/diegoloveless/videos); temporary GTA-only period (~1 week from 18 Nov).
 - twitch.tv/diegoloveless on screen or in caption. Overlay optional. ≥0.8% engagement, likes visible. No low-effort.
 
-### $5,000 Dylan Page GTA VI Marathon (NewsDaddy) — $1/1K, min $10, max $250; ends with the marathon
+### $5,000 Dylan Page GTA VI Marathon (NewsDaddy) — ⚠️ RATE RAISED 21 Nov: now $1.20/1K (was $1/1K); min $10, max $250; ends with the marathon
 https://contentrewards.com/c/campaigns/39753a1a-f1f3-491b-a8f6-0cfee0af0c97
 - Footage: Dylan Page's 120h GTA 6 marathon from 19 Nov (youtube.com/@dylan.page./live), streams/VODs/clips.
 - 9:16; Dylan main focus throughout; #DylanPage in caption; English captions/subs.
@@ -87,7 +87,7 @@ https://contentrewards.com/c/campaigns/37f68297-664c-4820-a020-9bbb4a703bf9 · r
 
 ## Joined 21 Nov
 
-### $20,000 CORE Pool Campaign (Reach) — $20K pool split by views; clip counts from 500 views; MVR 2M total views; ends 30 Nov 2026
+### $25,000 CORE Pool Campaign (Reach) — ⚠️ POOL RAISED 21 Nov: now $25K (was $20K); pool split by views; clip counts from 500 views; MVR 2M total views; ends 30 Nov 2026
 https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · rules: https://reachclipping.com/CORE
 - Footage: CORE content (e.g. Lacy / JasonTheWeen GTA VI streams) where AT LEAST 2 CORE members physically appear together in the same clip. Separate solo clips edited together do NOT count. Funny moments/reactions/banter.
 - Same clip can ALSO be submitted to the Lacy and JasonTheWeen campaigns if it meets their rules (stackable).
@@ -96,6 +96,16 @@ https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · r
 - ≥50% native-English audience (US/CA/AU/UK/NZ). English captions/text only.
 - NO logos of any kind; no negative portrayal / hate farming; no botting, reposts, collab posts, AI; no repetitive thumbnails.
 - Submit within 30 min of posting. TikTok, Reels, Shorts, X.
+
+### $25,000 Lacy 30 Day Campaign (Reach; part of the "$30,000 LACY CLIPPING CAMPAIGN" group) — $25K pool split by views; clip counts from 500 views; MVR 1M total views; ends 21 Dec 2026
+https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec · rules: https://reachclipping.com/Lacy
+- Separate from the $12.5K LACY GTA VI Marathon pool (same Lacy GTA clip can likely go to both if it meets both rule sets). The $5K Twitter/X twin of this campaign was NOT joined (we don't post on X).
+- Footage: any video/stream/clip featuring Lacy from Twitch, YouTube, Snapchat, TikTok, Instagram or X (his GTA VI streams fine). Lacy must be the primary focus throughout (not just in the intro).
+- Caption/text overlay must mention Lacy's name; caption must include #Lacy.
+- ≥50% audience native-English (US/CA/AU/UK/NZ); account niche must be relevant. English captions only (no Japanese captions/descriptions).
+- NO logos of any kind; no negative portrayal / hate farming; no botting, reposts, collab posts; no repetitive/non-matching thumbnails. (Page says AI content allowed but final rules ban AI-generated content — avoid AI.)
+- Dedicated account only recommended (not required) if you lack a relevant page with 100+ followers.
+- Submit within 30 min of posting. TikTok, Reels, Shorts (X has its own campaign).
 
 ---
 
@@ -108,6 +118,8 @@ https://contentrewards.com/c/campaigns/2886f500-f062-48dd-a9b4-9de5725f8186 · r
 - $2,500 Pilat Clipping (Reach, $1/1K, MVR 10K, min $10/max $300) — https://contentrewards.com/c/campaigns/5f22a72a-9598-4d10-897e-e16ebc97ff0e · rules https://reachclipping.com/Pilat — GTA 6 playthrough clips OK, but Pilat is a gambling streamer (campaign also accepts gambling streams).
 - DENIAL – HOSTILE (Austere, sound campaign, $1/1K, $1.2K) — https://contentrewards.com/c/campaigns/eac1cd1a-0c1d-4d59-9a4c-3e70ce4f8bd8 — official audio over GTA 6 trailer cuts; creator requirement hidden until join.
 - Naya Yeira – Almost There (music, $1/1K, min $10/max $100, $1K) — https://contentrewards.com/c/campaigns/7be0bc4d-a46f-4baa-b0f8-3202c9c9e203 — generic music campaign (GTA 6 missions allowed with the official sound, tag @nayayeira); not a GTA campaign.
+- GTA 6 x GTA Clipper Logo Campaign (GTA Clipper, $0.50/1K US/UK/CA/AU only, min $5/max $200, paid from 10K views, $1K budget, new 21 Nov) — https://contentrewards.com/c/campaigns/686f6547-172e-4b76-99be-c26eabd5a2cf — GTA Clipper logo bottom-right on any GTA 6 streamer clip + Discord join; logo clashes with the "no logos" Reach/NewsDaddy campaigns.
+- GTA VI "Things I Could've Said" Music Campaign (Music Promo Clippers, $0.20/1K TikTok, $0.18 IG, $0.25 YT, $1K) — https://contentrewards.com/c/campaigns/2e5951c8-a46b-404a-b88b-79fbac7ce6e4 — official song from exactly 2:34 over GTA content; very low CPM and replaces streamer audio.
 
 ## Rejected
 BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA).
