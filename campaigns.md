@@ -6,16 +6,23 @@ Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fe
 
 ---
 
-## Joined before 19 Nov (rules not yet transcribed — read the campaign page before posting)
+## Joined before 19 Nov (partly transcribed 22 Nov from the clip-round notes; read the campaign page for anything missing)
 - Kai Cenat – $10,000 GTA 6 Pool (Clipped & Shipped) — https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86
+  - Each clip needs 1K views to count. Caption #KaiCenat #GTA6 (never negative about Kai). Kai cam crop @1080p: cam [0,430,392,222].
 - $12,500 LACY GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a
-- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c (open from Discover)
-- YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e (open from Discover)
+  - Caption #LACY #GTA6. Reach rules (no logos).
+- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-4294-8ded-394e3da9c62f
+  - Caption #JasonTheWeen #GTA6. Reach rules (no logos).
+- YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247
+  - Each clip needs 500 views to count. Caption must include #yourrage (+ #YourRAGE #GTA6). Reach rules (no logos).
 - $5,000 Clix GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/985dc674 (open from Discover)
+  - Clip rounds have been submitting Clix clips to https://contentrewards.com/c/campaigns/17ff5e37-a774-4a75-a1a4-d47dba98a60e (the Clix Pool [November], see below). Caption Clix + #Clix, no logos.
 - TOMO GTA VI — budget nearly exhausted (~$995/$1K on 19 Nov)
 - Dasgasd3m x RUCKUS | GTA 6 ($2/1K) — https://contentrewards.com/c/campaigns/051002dd-5c46-43d0-a446-43f2957ba3a9
 - GTA 6 Clipping – Tokyo Girl (Placements, music, $0.70/1K) — https://contentrewards.com/c/campaigns/40046522 (open from Discover)
 - $5,000 Marlon Clipping (Reach) — not GTA (Marlon trip footage only), almost full ($4,9K/$5K on 21 Nov)
+
+Submitting: TikTok link only (streamer clips are TikTok only) — campaign page → Submit clip → tick requirements checkbox → Submit clip → confirm "Clip submitted". Submit within 30 min of posting.
 
 Reach campaigns in general: rules at reachclipping.com/<Name>; NO logos of any kind, ≥50% native-English audience, no AI/collab/reposts, submit within 30 min.
 
