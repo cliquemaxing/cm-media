@@ -19,8 +19,9 @@ Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fe
   - Clip rounds have been submitting Clix clips to https://contentrewards.com/c/campaigns/17ff5e37-a774-4a75-a1a4-d47dba98a60e (the Clix Pool [November], see below). Caption Clix + #Clix, no logos.
 - TOMO GTA VI — budget nearly exhausted (~$995/$1K on 19 Nov)
 - Dasgasd3m x RUCKUS | GTA 6 ($2/1K) — https://contentrewards.com/c/campaigns/051002dd-5c46-43d0-a446-43f2957ba3a9
+  - Brief (Discover, 22 Nov): clip Dom's funny/entertaining GTA 6 moments (all his GTA 6 streams, live or VOD) for TikTok/Shorts; GTA 6-specific accounts required (we are one). Budget $94/$1K used on 22 Nov.
 - GTA 6 Clipping – Tokyo Girl (Placements, music, $0.70/1K) — https://contentrewards.com/c/campaigns/40046522 (open from Discover)
-- $5,000 Marlon Clipping (Reach) — not GTA (Marlon trip footage only), almost full ($4,9K/$5K on 21 Nov)
+- $5,000 Marlon Clipping (Reach) — not GTA (Marlon trip footage only), almost full ($4.8K/$5K on 22 Nov)
 
 Submitting: TikTok link only (streamer clips are TikTok only) — campaign page → Submit clip → tick requirements checkbox → Submit clip → confirm "Clip submitted". Submit within 30 min of posting.
 
@@ -38,7 +39,7 @@ https://contentrewards.com/c/campaigns/2eaa14fb-6927-4136-897e-b096e0d907d6 · r
 - Caption: "Watch KreekCraft on YouTube and Twitch" + #GTA6 #KreekCraft #GrandTheftAutoVI.
 - ≥40% audience US/UK/CA/AU; ≥0.8% engagement, likes visible; live ≥30 days; max 5 near-identical reposts. TikTok/Reels/Shorts.
 
-### DiegoLoveless GTA 6 Clipping (ClipLaunch) — $1/1K, min $1, max $300, ~$477 left of $1.4K (22 Nov: $923 used)
+### DiegoLoveless GTA 6 Clipping (ClipLaunch) — $1/1K, min $1, max $300, ~$470 left of $1.4K (22 Nov: $928 used)
 https://contentrewards.com/c/campaigns/5d37d3dd-adf3-401f-9c62-24bb54d5087a · rules: https://app.notion.com/p/DiegoLoveless-Twitch-Clipping-Full-Rules-Brief-4038e33583238129bbc3f689497ad8db
 - Footage: Diego's GTA Twitch streams only (twitch.tv/diegoloveless/videos); temporary GTA-only period (~1 week from 18 Nov).
 - twitch.tv/diegoloveless on screen or in caption. Overlay optional. ≥0.8% engagement, likes visible. No low-effort.
@@ -71,7 +72,7 @@ https://contentrewards.com/c/campaigns/17ff5e37-a774-4a75-a1a4-d47dba98a60e · r
 - Any 2026 Clix content (GTA VI streams fine); Clix primary focus. Caption/overlay mentions Clix + #Clix.
 - ≥50% native-English audience; NO logos; no AI; no collab/reposts. TikTok/Reels/Shorts.
 
-### GTA VI | PARKERRYT STREAM (ClipHaus) — $0.60/1K, min $0.60, max $100/clip, ~$600 left of $2,491 (22 Nov: $1.9K used)
+### GTA VI | PARKERRYT STREAM (ClipHaus) — $0.60/1K, min $0.60, max $100/clip, ~$500 left of $2,491 (22 Nov: ~$2K used)
 https://contentrewards.com/c/campaigns/e41de449-3eca-4343-a11c-b194e7a3379a · rules: https://app.notion.com/p/GTA-VI-Streamer-Campaign-3ea0395e47eb8095ba10ef12ef45b2bc · analytics form: https://forms.gle/QqFB1BeMAErwEPkUA
 - Footage: Parkerr's GTA VI Twitch streams/VODs only (twitch.tv/realparkerr). No other creators, reuploads, trailers or unrelated gameplay.
 - MANDATORY: Parkerr Twitch stamp (Parkerr Stamp.png in the Notion page) on every clip.
@@ -128,6 +129,7 @@ https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec · r
 - GTA 6 x GTA Clipper Logo Campaign (GTA Clipper, $0.50/1K US/UK/CA/AU only, min $5/max $200, paid from 10K views, $1K budget, new 21 Nov) — https://contentrewards.com/c/campaigns/686f6547-172e-4b76-99be-c26eabd5a2cf — GTA Clipper logo bottom-right on any GTA 6 streamer clip + Discord join; logo clashes with the "no logos" Reach/NewsDaddy campaigns.
 - GTA VI "Things I Could've Said" Music Campaign (Music Promo Clippers, $0.20/1K TikTok, $0.18 IG, $0.25 YT, $1K) — https://contentrewards.com/c/campaigns/2e5951c8-a46b-404a-b88b-79fbac7ce6e4 — official song from exactly 2:34 over GTA content; very low CPM and replaces streamer audio.
 - GTA Clips (ArthurTV, $1.50/1K TikTok+IG, min $15/max $300, $5K budget, new 22 Nov) — https://contentrewards.com/c/campaigns/6e9ca548-f36c-42c2-abc0-61f89b4b53ba — clips of ArthurTV's own "GTA gameplay" YouTube playlist; brief doesn't say GTA VI (could be GTA V), unknown creator, creator requirement + reference file hidden until join.
+- GTA 6 x GTA Clipper Tool Campaign (GTA Clipper, $0.70/1K TikTok/IG/YT/X, min $3.50/max $300, $1K budget, new 22 Nov) — https://contentrewards.com/c/campaigns/de2b2ee3-bb22-453e-ae1a-c07bf89c5ef4 — ad-style short about the GTA Clipper tool made from THEIR footage, gtaclipper.com in description + Discord join; not GTA VI streamer/gameplay clips; requirement + 2 files hidden until join.
 
 ## Rejected
-BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA).
+BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA), GTA VI Lucia vs Fanvue AI Lucia (Bounty, $1.50/1K, $5K, 22 Nov — promotes an "AI girl" creator site using AI Lucia clips; AI/adult-adjacent, misleading).
