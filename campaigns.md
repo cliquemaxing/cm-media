@@ -9,12 +9,12 @@ Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fe
 ## Joined before 19 Nov (partly transcribed 22 Nov from the clip-round notes; read the campaign page for anything missing)
 - Kai Cenat – $10,000 GTA 6 Pool (Clipped & Shipped) — https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86
   - Each clip needs 1K views to count. Caption #KaiCenat #GTA6 (never negative about Kai). Kai cam crop @1080p: cam [0,430,392,222].
-- $12,500 LACY GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a
-  - Caption #LACY #GTA6. Reach rules (no logos).
+- $12,500 LACY GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a · rules https://reachclipping.com/LACYGTA
+  - Caption #LACY #GTA6. Reach rules (no logos). Each clip needs 500 views; MVR 750K total views to share the pool (checked 23 Nov; Discover now groups it under a "GTA 6 $20K pool" card). Ends when the marathon ends.
 - $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-4294-8ded-394e3da9c62f
   - Caption #JasonTheWeen #GTA6. Reach rules (no logos).
-- YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247
-  - Each clip needs 500 views to count. Caption must include #yourrage (+ #YourRAGE #GTA6). Reach rules (no logos).
+- ⛔ ENDED 23 Nov — YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247
+  - Pool ended/archived; we didn't reach the 250K MVR so it paid nothing. Do NOT submit here — use the new YourRAGE $7,500 Pool (Joined 23 Nov) instead.
 - $5,000 Clix GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/985dc674 (open from Discover)
   - Clip rounds have been submitting Clix clips to https://contentrewards.com/c/campaigns/17ff5e37-a774-4a75-a1a4-d47dba98a60e (the Clix Pool [November], see below). Caption Clix + #Clix, no logos.
 - TOMO GTA VI — budget nearly exhausted (~$995/$1K on 19 Nov)
@@ -117,6 +117,20 @@ https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec · r
 
 ---
 
+## Joined 23 Nov
+
+### YourRAGE $7,500 Pool Campaign (Reach) — $7.5K pool split by views; clip counts from 500 views; MVR 250K total views; launched 23 Nov (replaces the ended $5K GTA 6 pool)
+https://contentrewards.com/c/campaigns/2064cdb1-4357-4380-b99c-119c5b320d31 · rules: https://reachclipping.com/YourRAGEPool
+- Footage: only YourRAGE's streams, social posts or official platforms (twitch.tv/yourragegaming, youtube.com/@YourRAGEGaming, instagram.com/yourrage) — his GTA VI streams fine. Rage must be the primary focus.
+- Caption/text overlay must mention Rage's name; caption must include #YourRAGE (add #GTA6).
+- ≥50% audience native-English (US/CA/AU/UK/NZ); account niche must be relevant.
+- Standard Reach rules: NO logos of any kind; no negative portrayal, botting, reposts, collab posts, AI. Submit within 30 min of posting. TikTok, Reels, Shorts, X.
+
+### Budget check 23 Nov (joined campaigns)
+- DiegoLoveless $956/$1.4K (~$444 left) · PARKERRYT $2.2K/$2.5K (~$300 left) · AsianJeff $1.8K/$2.5K · BOBBY VAN RIPER $227/$1K · Boeshi $110/$1.8K · Dylan Page $152/$5K · Dasgasd3m $101/$1K · Tokyo Girl $288/$2K.
+
+---
+
 ## Pending Rei's decision (not joined)
 - GTA VI Clipup Logo Campaign (ClipUp Official, $0.30/1K tier-1, $15K) — add ClipUp logo to any GTA VI streamer clip; rule/logo hidden until join; clashes with "no logos" campaigns.
 - Lucky Latvian X GTA6 (KLIPZY, $2/1K) — unknown CTA, possibly gambling.
@@ -130,6 +144,9 @@ https://contentrewards.com/c/campaigns/dc7183a8-7779-4b54-99a8-b7ac8c8452ec · r
 - GTA VI "Things I Could've Said" Music Campaign (Music Promo Clippers, $0.20/1K TikTok, $0.18 IG, $0.25 YT, $1K) — https://contentrewards.com/c/campaigns/2e5951c8-a46b-404a-b88b-79fbac7ce6e4 — official song from exactly 2:34 over GTA content; very low CPM and replaces streamer audio.
 - GTA Clips (ArthurTV, $1.50/1K TikTok+IG, min $15/max $300, $5K budget, new 22 Nov) — https://contentrewards.com/c/campaigns/6e9ca548-f36c-42c2-abc0-61f89b4b53ba — clips of ArthurTV's own "GTA gameplay" YouTube playlist; brief doesn't say GTA VI (could be GTA V), unknown creator, creator requirement + reference file hidden until join.
 - GTA 6 x GTA Clipper Tool Campaign (GTA Clipper, $0.70/1K TikTok/IG/YT/X, min $3.50/max $300, $1K budget, new 22 Nov) — https://contentrewards.com/c/campaigns/de2b2ee3-bb22-453e-ae1a-c07bf89c5ef4 — ad-style short about the GTA Clipper tool made from THEIR footage, gtaclipper.com in description + Discord join; not GTA VI streamer/gameplay clips; requirement + 2 files hidden until join.
+- Whethan & DEV – Bass Down Low (GTA VI) (Artist Influence, music, $1/1K TikTok/IG/YT, min $1/max $150, $1.1K, new 23 Nov) — https://contentrewards.com/c/campaigns/15078d54-8a1d-4805-84ec-e25d4cc0e4dc — GTA 6 gameplay cut to the song (replaces streamer audio); creator requirement hidden until join.
+- Sam Wolfe – Control Delete (MPT, $10 per approved TikTok post, $1K) — https://contentrewards.com/c/campaigns/e1c76ee8-18b6-4352-b2f7-4e8b9cb3853a — own GTA gameplay cut to his EDM track; min 1,000 followers; rule + requirement hidden until join; doesn't say GTA VI.
+- $2,500 SkiiMaskTimmy Streamer Campaign (ClippedIn, $1/1K TikTok/IG/YT, min $2/max $150, $379/$2.5K used) — https://contentrewards.com/c/campaigns/9a53cf91-e0ac-4157-bed0-81eb7095827d — generic Twitch streamer clips with mandatory twitch.tv/skiimasktimmy overlay; unclear if he's playing GTA VI.
 
 ## Rejected
-BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA), GTA VI Lucia vs Fanvue AI Lucia (Bounty, $1.50/1K, $5K, 22 Nov — promotes an "AI girl" creator site using AI Lucia clips; AI/adult-adjacent, misleading).
+BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA), GTA VI Lucia vs Fanvue AI Lucia (Bounty, $1.50/1K, $5K, 22 Nov — promotes an "AI girl" creator site using AI Lucia clips; AI/adult-adjacent, misleading), Mack Camferdam – Twitch Clips (Minecraft/Ready or Not/NBA 2K, not GTA; 23 Nov).
