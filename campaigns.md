@@ -4,7 +4,7 @@ Single source of truth. The campaign-scout scheduled task appends every campaign
 Global: streamer clips → TikTok only (Instagram = original carousels only). No sexual/strip-club content.
 Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fee-4748-96dd-5903ac9136b8); Content Rewards account "madmonday"; TikTok Studio = CliqueMaxing.
 
-> ⚠️ STATUS 25 Nov — DO NOT SUBMIT to these (closed or budget exhausted): Kai Cenat $10K pool, LACY GTA VI Marathon $12.5K, Dylan Page, Dasgasd3m x RUCKUS (submissions closed); KreekCraft, DiegoLoveless, AsianJeff, PARKERRYT (budget $0 left). Still open: Jason $9K pool, CORE $25K, Lacy 30 Day $25K, Silky $7.5K, YourRAGE $7.5K, Clix Pool [November], Boeshi, BOBBY VAN RIPER, Tokyo Girl.
+> ⚠️ STATUS 28 Nov — DO NOT SUBMIT to these (closed or budget exhausted): Kai Cenat $10K pool, LACY GTA VI Marathon $12.5K, Dylan Page, Dasgasd3m x RUCKUS (submissions closed); KreekCraft, DiegoLoveless, AsianJeff, PARKERRYT, BOBBY VAN RIPER (budget $0 left). Still open: Jason $9K pool, CORE $25K (ends 30 Nov), Lacy 30 Day $25K, Silky $7.5K, YourRAGE $7.5K, Clix Pool [November], Boeshi (~$800 left), Tokyo Girl.
 
 ---
 
@@ -15,7 +15,7 @@ Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fe
 - ⛔ SUBMISSIONS CLOSED 25 Nov — $12,500 LACY GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a · rules https://reachclipping.com/LACYGTA
   - Caption #LACY #GTA6. Reach rules (no logos). Each clip needs 500 views; MVR 750K total views to share the pool (checked 23 Nov; Discover now groups it under a "GTA 6 $20K pool" card). Ends when the marathon ends.
   - 25 Nov: closed (marathon over). Lacy clips → $25K Lacy 30 Day Campaign (and CORE if 2+ members).
-- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-4294-8ded-394e3da9c62f
+- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-294-8ded-394e3da9c62f
   - Caption #JasonTheWeen #GTA6. Reach rules (no logos).
 - ⛔ ENDED 23 Nov — YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247
   - Pool ended/archived; we didn't reach the 250K MVR so it paid nothing. Do NOT submit here — use the new YourRAGE $7,500 Pool (Joined 23 Nov) instead.
@@ -60,7 +60,7 @@ https://contentrewards.com/c/campaigns/5c01ecdb-a148-4489-ba26-5aadbbb5bf69 · r
 - Caption must tag twitch.tv/darealboeshi (e.g. "Full stream at twitch.tv/darealboeshi").
 - ≥40% tier-1 audience; ≥0.8% engagement; live ≥30 days.
 
-### BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) — $1.50/1K, min 1,500 views, max $150, budget $1K
+### ⛔ BOBBY VAN RIPER GTA VI Clipping (Clipping Nation) — BUDGET EXHAUSTED ($1,000/$1,000, 28 Nov) — do not submit. Was $1.50/1K, min 1,500 views, max $150, budget $1K
 https://contentrewards.com/c/campaigns/f583b069-ced7-49e5-9ed3-2d3a13d6df0c · rules: https://app.notion.com/p/Bobby-Vanriper-Twitch-Clipping-Full-Rules-Brief-414582c82d8881d5b28bdd4235a1be82
 - Footage: Bobby's GTA VI streams/videos (twitch.tv/bobby_vanriper). Overlay optional.
 - CTA: mention Bobby + where to watch live ("follow Bobby Vanriper on Twitch"). Hashtags (mix): #bobbyvanriper #gta6 #gtavi #twitch #streamer #twitchclips #gaming #funnymoments
@@ -146,6 +146,10 @@ https://contentrewards.com/c/campaigns/2064cdb1-4357-4380-b99c-119c5b320d31 · r
 ### Scout 27 Nov
 - No new GTA VI campaign joined. Budgets: Boeshi $278/$1.8K · BOBBY VAN RIPER $665/$1K · Tokyo Girl $490/$2K. Pending updates: Clip JasonTheWeen $624/$2K; SkiiMaskTimmy now $2/1K ($533/$2.5K); ClipUp Logo now $0.25/1K ($9.5K/$15K).
 
+### Scout 28 Nov
+- No new GTA VI campaign joined. ⛔ BOBBY VAN RIPER now exhausted ($1K/$1K). Boeshi $1K/$1.8K (~$800 left, burning fast) · Tokyo Girl $586/$2K.
+- Pending updates: Clip JasonTheWeen $901/$2K; SkiiMaskTimmy $692/$2.5K; GTA 6 x Foltyn $286/$5K; ArthurTV GTA Clips $448/$5K; Whethan & DEV $775/$1.1K; GTA Clipper Logo $879/$1K (nearly full).
+
 ---
 
 ## Pending Rei's decision (not joined)
@@ -172,6 +176,7 @@ https://contentrewards.com/c/campaigns/2064cdb1-4357-4380-b99c-119c5b320d31 · r
 - 'Game Over' GTA VI Rollout (DiamondzCartel, music, $0.50/1K TikTok/IG/YT, min $2.50/max $100, $1K, new 25 Nov) — https://contentrewards.com/c/campaigns/40562c73-8031-45a7-9c82-566b98c5f65f — epic GTA VI gameplay moments ("WASTED", cars, crazy moments) with the song overlaid on every clip (15/15/30 s looping options; replaces streamer audio); low CPM; 1 rule + 1 file hidden until join.
 - GTA 6 x Foltyn (Clipping Hall of Fame, $1.50/1K TikTok min $6/max $400 + YouTube $1.50/1K min $20/max $350, $5K budget ($3.5K TikTok/$1.5K YT), new 26 Nov) — https://contentrewards.com/c/campaigns/ec9a0d02-4ff0-4d0d-a85f-9b5bcf699388 — "Clip Foltyn playing GTA 6"; no Instagram, all rules in a reference file hidden until join; same organiser as Clip JasonTheWeen (also pending).
 - GTA VI x worm [LOGO CAMPAIGN] (worm, $0.50/1K TikTok/IG/YT, min $1/max $100, $1K, new 27 Nov) — https://contentrewards.com/c/campaigns/d2f9dcd2-6d37-4207-8422-a42a3c156f31 — any GTA content but the "worm" sign (Lucia holding "wtf is worm?") must be on screen the whole video; unknown brand (could be a memecoin/app), logo clashes with "no logos" campaigns; 1 rule + 2 files hidden until join.
+- PlayerAuctions Clipping (ClipLaunch, $1.50/1K TikTok/IG/YT, min $1.50/max $300, $1K, new 28 Nov) — https://contentrewards.com/c/campaigns/fcc97d0a-11b8-4b7e-bf35-704f4c900b93 — generic gaming clips promoting PlayerAuctions (marketplace for buying/selling in-game items, accounts, currency); not GTA-specific, ad-style; real-money-trading angle may clash with Rockstar ToS; brief file hidden until join.
 
 ## Rejected
-BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA), GTA VI Lucia vs Fanvue AI Lucia (Bounty, $1.50/1K, $5K, 22 Nov — promotes an "AI girl" creator site using AI Lucia clips; AI/adult-adjacent, misleading), Mack Camferdam – Twitch Clips (Minecraft/Ready or Not/NBA 2K, not GTA; 23 Nov), GTA 6 & Movie Edits | Daniel Donato (The Clip Ship, music campaign: Smokey and the Bandit/movie chase scenes, not GTA VI footage; 23 Nov), DJ Tunez – GTA 6 Clipping (The Clip Ship, Instagram-only music reposts of other clippers' content; 23 Nov). GTA 6 x Monetize Logo campaign (Monetize, $0.30/1K, Instagram only, logo + Discord link in bio; 24 Nov — https://contentrewards.com/c/campaigns/df8dd3c2-2427-415f-955f-8922acc5d442). Daniel Donato reappeared 24 Nov as https://contentrewards.com/c/campaigns/6c7baa32-18e4-4901-b14a-cc8eb471f4a7 — same reason. GTA VI VAVADA [LOGO CAMPAIGN] (Bounty, $0.50/1K, $10K, seen 24 Nov — casino logo). Nogla $5,000 Clipping Campaign (Reach, $2/1K, MVR 10K, 25 Nov — https://contentrewards.com/c/campaigns/ae573d30-b451-4d3b-ac9b-2cd3f72edd11 — Fortnite Creative/UEFN VODs from 11–18 Nov, #fortnitecreative #uefn; not GTA VI).
+BICHOU (French), LUXDROP (gambling), Eneba BroPacks (loot boxes), VAVADA (casino), Gattouz0 x 1WIN (betting), BenDaDonnn x Puffco (vape), Lauren Hamden (dedicated account), Lysium (application), SypherPK / Expedia x IShowSpeed (not GTA VI), TapCap (Reach, AI videos of a product), 8lanco sound campaigns (music, not GTA), KIIRAS – Over U (Artist Influence, music, not GTA), GTA VI Lucia vs Fanvue AI Lucia (Bounty, $1.50/1K, $5K, 22 Nov — promotes an "AI girl" creator site using AI Lucia clips; AI/adult-adjacent, misleading), Mack Camferdam – Twitch Clips (Minecraft/Ready or Not/NBA 2K, not GTA; 23 Nov), GTA 6 & Movie Edits | Daniel Donato (The Clip Ship, music campaign: Smokey and the Bandit/movie chase scenes, not GTA VI footage; 23 Nov), DJ Tunez – GTA 6 Clipping (The Clip Ship, Instagram-only music reposts of other clippers' content; 23 Nov). GTA 6 x Monetize Logo campaign (Monetize, $0.30/1K, Instagram only, logo + Discord link in bio; 24 Nov — https://contentrewards.com/c/campaigns/df8dd3c2-2427-415f-955f-8922acc5d442). Daniel Donato reappeared 24 Nov as https://contentrewards.com/c/campaigns/6c7baa32-18e4-4901-b14a-cc8eb471f4a7 — same reason. GTA VI VAVADA [LOGO CAMPAIGN] (Bounty, $0.50/1K, $10K, seen 24 Nov — casino logo). Nogla $5,000 Clipping Campaign (Reach, $2/1K, MVR 10K, 25 Nov — https://contentrewards.com/c/campaigns/ae573d30-b451-4d3b-ac9b-2cd3f72edd11 — Fortnite Creative/UEFN VODs from 11–18 Nov, #fortnitecreative #uefn; not GTA VI). Blitzed (Blitzed.io, casino clips, $2/1K, 28 Nov — https://contentrewards.com/c/campaigns/f3d675ad-b19c-4536-821f-a2b38d47bb5e — gambling).
