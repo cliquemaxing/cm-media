@@ -15,7 +15,7 @@ Browser/account: Rei's Windows PC Chrome (Claude in Chrome deviceId 80965cb0-9fe
 - ⛔ SUBMISSIONS CLOSED 25 Nov — $12,500 LACY GTA VI Marathon Pool (Reach) — https://contentrewards.com/c/campaigns/a5c63fad-cd53-4b81-9305-4a2d1696872a · rules https://reachclipping.com/LACYGTA
   - Caption #LACY #GTA6. Reach rules (no logos). Each clip needs 500 views; MVR 750K total views to share the pool (checked 23 Nov; Discover now groups it under a "GTA 6 $20K pool" card). Ends when the marathon ends.
   - 25 Nov: closed (marathon over). Lacy clips → $25K Lacy 30 Day Campaign (and CORE if 2+ members).
-- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-294-8ded-394e3da9c62f
+- $9,000 Jason Pool (Reach) — https://contentrewards.com/c/campaigns/0b178e3c-fbd3-4294-8ded-394e3da9c62f
   - Caption #JasonTheWeen #GTA6. Reach rules (no logos).
 - ⛔ ENDED 23 Nov — YourRAGE $5,000 GTA 6 Pool (Reach) — https://contentrewards.com/c/campaigns/be9b123e-ea47-4305-b6c5-af81f503b247
   - Pool ended/archived; we didn't reach the 250K MVR so it paid nothing. Do NOT submit here — use the new YourRAGE $7,500 Pool (Joined 23 Nov) instead.
